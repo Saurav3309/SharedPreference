@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+    <string name="enter_name">Enter Name :</string>
+    <string name="enter_id">Enter id :</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="clear">Clear</string>
+    <string name="your_id">Your id :</string>
+    <string name="your_name">Your Name :</string>
+</resources>
